@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{1579133}
+M.~A. {Babar}, I.~{Gorton}, and R.~{Jeffery}.
+\newblock Capturing and using software architecture knowledge for
+  architecture-based software development.
+\newblock In {\em Fifth International Conference on Quality Software
+  (QSIC'05)}, pages 169--176, Sep. 2005.
+
+\bibitem{SB}
+S.~Bolanos.
+\newblock {\em Metaproceso de Software}.
+
+\bibitem{6827125}
+K.~E. {Harper} and A.~{Dagnino}.
+\newblock Agile software architecture in advanced data analytics.
+\newblock In {\em 2014 IEEE/IFIP Conference on Software Architecture}, pages
+  243--246, April 2014.
+
+\bibitem{6337726}
+T.~{Keuler}, J.~{Knodel}, M.~{Naab}, and D.~{Rost}.
+\newblock Architecture engagement purposes: Towards a framework for planning
+  "just enough"-architecting in software engineering.
+\newblock In {\em 2012 Joint Working IEEE/IFIP Conference on Software
+  Architecture and European Conference on Software Architecture}, pages
+  234--238, Aug 2012.
+
+\bibitem{6337730}
+H.~{Koziolek}, D.~{Domis}, T.~{Goldschmidt}, P.~{Vorst}, and R.~J. {Weiss}.
+\newblock Morphosis: A lightweight method facilitating sustainable software
+  architectures.
+\newblock In {\em 2012 Joint Working IEEE/IFIP Conference on Software
+  Architecture and European Conference on Software Architecture}, pages
+  253--257, Aug 2012.
+
+\end{thebibliography}
